@@ -1,6 +1,6 @@
-package com.telusko.quizapp.dao;
+package com.pankaj.quizapp.dao;
 
-import com.telusko.quizapp.model.Question;
+import com.pankaj.quizapp.model.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

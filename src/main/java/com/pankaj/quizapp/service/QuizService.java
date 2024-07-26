@@ -1,11 +1,11 @@
-package com.telusko.quizapp.service;
+package com.pankaj.quizapp.service;
 
-import com.telusko.quizapp.dao.QuestionDao;
-import com.telusko.quizapp.dao.QuizDao;
-import com.telusko.quizapp.model.Question;
-import com.telusko.quizapp.model.QuestionWrapper;
-import com.telusko.quizapp.model.Quiz;
-import com.telusko.quizapp.model.Response;
+import com.pankaj.quizapp.model.Quiz;
+import com.pankaj.quizapp.model.Response;
+import com.pankaj.quizapp.dao.QuestionDao;
+import com.pankaj.quizapp.dao.QuizDao;
+import com.pankaj.quizapp.model.Question;
+import com.pankaj.quizapp.model.QuestionWrapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
