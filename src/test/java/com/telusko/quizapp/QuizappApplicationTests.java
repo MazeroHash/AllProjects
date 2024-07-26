@@ -1,10 +1,10 @@
-package com.example.quizzapp;
+package com.telusko.quizapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuizzappApplicationTests {
+class QuizappApplicationTests {
 
 	@Test
 	void contextLoads() {
